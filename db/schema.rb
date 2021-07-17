@@ -45,7 +45,6 @@ ActiveRecord::Schema.define(version: 2021_07_17_210949) do
   end
 
   create_table "communications", force: :cascade do |t|
-    t.json "contact_ids"
     t.boolean "contact_initiated"
     t.datetime "contacted_at"
     t.integer "job_id", null: false
@@ -107,7 +106,6 @@ ActiveRecord::Schema.define(version: 2021_07_17_210949) do
     t.string "title"
     t.integer "company_id", null: false
     t.string "description_link"
-    t.json "tech_stack"
     t.decimal "salary_low"
     t.decimal "salary_high"
     t.decimal "pto_days"
