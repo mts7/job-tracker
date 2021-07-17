@@ -1,0 +1,2 @@
+class CommunicationMethod < ApplicationRecord
+end

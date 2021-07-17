@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  resume: one
+  communication: one
+  deadline: 2021-07-17 16:48:12
+  applied_at: 2021-07-17 16:48:12
+
+two:
+  resume: two
+  communication: two
+  deadline: 2021-07-17 16:48:12
+  applied_at: 2021-07-17 16:48:12

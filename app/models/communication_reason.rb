@@ -1,0 +1,2 @@
+class CommunicationReason < ApplicationRecord
+end

@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  contact_ids: 
+  contact_initiated: false
+  contacted_at: 2021-07-17 16:47:19
+  job: one
+  reason: 
+  notes: MyText
+  method: 
+
+two:
+  contact_ids: 
+  contact_initiated: false
+  contacted_at: 2021-07-17 16:47:19
+  job: two
+  reason: 
+  notes: MyText
+  method: 
